@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+h1 {
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-size: 800px 700px;
+    background-image: url("../imagens/Group\ 1.png");
+    font-size: 16px;
+}
+
+a {
+    font-size: 24px;
+    margin: 40px;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+}
+
+a:hover {
+    background-color: antiquewhite;
+    color: black;
+    text-decoration: underline;
+}
+
+img {
+    margin: auto;
+    padding: auto;
+}
+
+ul {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    font-size: 48px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
