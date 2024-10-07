@@ -21,9 +21,8 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-    background-size: 800px 700px;
-    background-image: url("./imagens/Group1.png");
+body{
+    background-image: url("../imagens/Group1.png");
     font-size: 16px;
 }
 
